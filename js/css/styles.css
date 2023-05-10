@@ -54,7 +54,7 @@
   /* Lista Header */
   .todo-container {
     max-width: 450px;
-    margin: 3rem auto 0;
+    margin: 8rem auto 0;
     background-color: #70aeb6d0;
     padding: 1.5rem;
     border-radius: 15px;
@@ -151,7 +151,7 @@
   }
   
   .done {
-    background: #1c797c;
+    background: #396769;
   }
   
   .done h3 {
