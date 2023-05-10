@@ -1,4 +1,4 @@
- [ ] Lista_de_Tarefas
+ [x] Lista_de_Tarefas
  # Criar Arquivo HTML
  * Inclusão de tarefas
  * Edição de tarefas
