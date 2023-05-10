@@ -6,7 +6,8 @@
  * botão enviar
  * Interface
  
- [ ] Criar Arquivo Css
- 
- [] Criar Arquivo Js
+ [x] Criar Arquivo Css
+ * Customização
+ [x] Criar Arquivo Js
+ * Conexão DOM
  
