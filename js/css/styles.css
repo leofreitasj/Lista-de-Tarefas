@@ -1,0 +1,15 @@
+/* Geral */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Verdana;
+    color: #232222;
+  }
+  
+  body {
+    background-image: url("/img/back_list.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  
